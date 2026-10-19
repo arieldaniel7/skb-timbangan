@@ -1,0 +1,5 @@
+# Windows 7: gunakan Python 3.8.x (versi terakhir yang mendukung Windows 7)
+PyQt5==5.15.11
+pyserial>=3.5
+lupa>=2.0
+openpyxl>=3.0
