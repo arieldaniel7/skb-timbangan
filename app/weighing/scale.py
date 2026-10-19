@@ -1,4 +1,4 @@
-"""Abstraksi timbangan. UI tidak pernah menyentuh COM port langsung:
+"""Abstraksi timbangan.UI tidak pernah menyentuh COM port langsung:
 
     UI -> ScaleService -> ScaleProvider (Manual | Serial | TCP)
 """
